@@ -1,0 +1,1 @@
+# coin_auto_traiding_project
